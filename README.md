@@ -1,4 +1,4 @@
 
 =======
-# Coaching Mobile App
->>>>>>> origin/dev
+# Coaching Mobile App for Legal-Pythia 
+(Portfolio version)
