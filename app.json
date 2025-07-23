@@ -18,6 +18,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7ec60455-cb69-411a-9230-a45526cd6d88"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7ec60455-cb69-411a-9230-a45526cd6d88"
     }
   }
 }

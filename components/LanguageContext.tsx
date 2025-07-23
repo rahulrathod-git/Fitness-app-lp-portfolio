@@ -9,7 +9,7 @@ interface LanguageContextType {
 }
 
 const LanguageContext = createContext<LanguageContextType>({
-  language: 'de',
+  language: 'en',
   setLanguage: () => {},
   t: () => '',
 });
@@ -29,7 +29,7 @@ interface LanguageProviderProps {
 }
 
 export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) => {
-  const [language, setLanguageState] = useState<LanguageKey>('de'); // Default to German
+  const [language, setLanguageState] = useState<LanguageKey>('en');
 
   useEffect(() => {
     const loadSavedLanguage = async () => {
