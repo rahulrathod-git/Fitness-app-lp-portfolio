@@ -37,4 +37,4 @@ npx expo start --clear
 - Try restarting the Expo Go app
 
 ---
-*Built with React Native + Expo. 
+Built with React Native + Expo. 
