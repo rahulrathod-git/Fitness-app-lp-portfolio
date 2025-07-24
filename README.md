@@ -9,8 +9,8 @@
 
 ```bash
 # Clone and setup
-git clone https://github.com/your-username/coaching-app-mobile.git
-cd coaching-app-mobile
+git clone https://github.com/rahulrathod-git/coaching-app-lp-portfolio
+cd coaching-app-lp-portfolio
 npm install
 
 # Run the app
