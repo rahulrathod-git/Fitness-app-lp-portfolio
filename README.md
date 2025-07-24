@@ -21,12 +21,11 @@ npx expo start
 
 ## Troubleshooting
 
-**QR code not working?**
+**Not working? Try:**
 ```bash
 npx expo start --tunnel
 ```
-
-**Metro bundler issues?**
+**Or:**
 ```bash
 npx expo start --clear
 ```
